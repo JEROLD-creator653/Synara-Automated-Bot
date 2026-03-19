@@ -1,0 +1,5 @@
+python-telegram-bot==21.1
+groq>=1.0.0
+pyautogui==0.9.53
+python-dotenv==1.0.0
+selenium==4.15.2
